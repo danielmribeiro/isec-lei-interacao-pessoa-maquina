@@ -1,0 +1,44 @@
+1 e 2 ->   Memoria sensorial: armazena memoria durante um periodo muito curto, memoria essa de estimolos do exterior (ex: observar um objeto)
+	STM (short-term-memory): armazena memoria durante um periodo um pouco mais lento q sensorial, mas curto. Tem capacidade limitada e é guardada em padrões. (ex: contas de cabeça)
+	LTM (long-term-memory): armazena memoria durante um periodo longo ou ilimitado. o armazenamento é lento e pouco preciso (ex: memorias).
+
+3 (?) -> Tamanho e Profundide, ângulo visual, acuidade visual, Brilho, Cor. Pode afetar na percepção do texto, no caso da cor, e facilidade de leitura (??).	
+
+4 -> 	Fitts: Tempo demorado ao utilizador ver a opção, dirigir o rato para a opção e clicar na opção.
+	Hicks: Numero otimo para opções no menu (por exemplo 7).
+
+5 (?) -> Falado no 3? - devido a cor, poderá causar cansaço e distração, devido a um uso indeviduo de cor, como por exemplo um fundo branco com texto amarelo, q é dificil de ler. 
+
+6 -> são mais rapidos de usar, de apredizagem rapida e configuraveis (desvantagens tem-e por exemplo lentos no inicio da aprendizagem e com nº limitado de opções)
+
+7 -> esta opção está correta pq segundo o "nº magico de miller" deverá se ter 7 menus. Assim o numero maior de menus poderia causar desconforto ao utilizador. Caso seja necessario ter mais que 7 menos, podera se optar por agrupar as opções em categorias, reduzindo assim o nº de menus.
+
+8 -> A opção descrita não é a indicada pois o azul com texto vermelho torna o texto cansativo  para o utilizador, sendo recomendado usar , por exemplo, texto vermelho e fundo cinzento claro. Tambem, não se deve usar o texto vermelho pois o vermelho é utilizado para reprezentar um "aviso" ao utilizador, sendo recomendado assim usar cores como o branco ou preto, consuante o fundo.
+
+9 e 10-> Modelo cirado na mente de utilizador de como uma interação poderá acontecer (desenvolvidas pela experiencia e treino do utilizador). É um modelo construido pois o cliente costroi na sua mente o que acha q a interação irá realizar
+
+11 -> affordance é uma caracteristica do design de um objeto, que leve o utilizador a "ideia" de como o utilizar (ex: buracos nas tesouras , com diferente tamanhos, q mostram onde meter os dedos). Má affordance, ex: maquina de escrever, relogio digital.
+
+12 -> Um bom modelo conceptual deve descrever o que se pode fazer com o sistema e que conceitos necessitam de saber para o utilizar (e tb dar uma ideia ao designer o que fazer). Não deve definir interface ou mecanismo de funcionamento de algo.
+
+13 -> resumindamente, na parte mental, o user interpreta a informação, avalia o que leu, com os seus objetivos define a a sua intenção, especifica-a e , ja na parte fisica realiza a ação. Depois de realizar a ação (na parte fisica), o utilizador precepciona o output do programa, e o ciclo volta ao inicio.
+	Os problemas que poderá ter é devido a erros de feedback, que na parte de interpretação, podera fazer q o user realiza uma ação errada.
+
+14 -> é bidirecional porque o user realiza ação com o sistema e recebe output dos sitema (?). O designer não está ligado ao cliente pois o designer tem o seu modelo mental do programa a realizar, e define-o no sitema. e o cliente apos usar o sistema ira criar o seu sistema mental. Assim a ideia é o modelo do desigenr ser semelhante ao do utilizador.
+
+15 e 16-> metaforas são imagens (pro exemplo) que remetam ao algo do conhecimento do utilizador, fazendo com q o utilizador, perceba do que aquela opção faz. As metaforas tem alguns problemas como: limitação de criatividade de designers, problemas culturais, restritivas, limitação de sistema para alem de conceitos basicos, etc..
+
+17 -> é vdd, nem todo o conhecimento precisa de estar na cabeça/memoria do utilizador, podendo assim a interface mostrar/recordar ao user como realizar uma oção (ex: na seleção de uma data, ter uma calendario).
+
+18 -> Estilos de interação é o modo de comunicação/interface com o utilizador, sendo por exemplo, linha de comandos e formularios.
+
+19 (a e b) e 20 -> linha de comandos viola a heristica "falar a linguagem de utilizador"(utiliza linguagem tecnica) e a "menos tecla = menos erros (less is more)"(utiliza comandos extensos).
+	Tem a ventagem de ocupar pouco espaço, ser mais rapido para utilizadores familiarizados, bom pra ações repetitivas, acesso e controlo direto pelo user. Tem a desvantegem de falhar as 2 heuristicas acima e a necessidade de conhecimento tecnico e capacidade de relembrar (para lembrar dos comandos).
+
+21 (?) -> as interfaces necessitam de uma maior "acesso" a memoria, para recordar as ações, necessitando assim de LTM. A interface grafica não necessecita tanto da "Acesso" a memoria, pois o utilizador com o reconhecimento das ações e com as metaforas consegue chegar as ações pretendidas.
+ 
+22 e 23 -> Tem a vantagem de fornecer feedback cosntante ao utilizador, ser facil de aprender e a "prova de erro" e acessivel a novos utilizadores. Tem a desvantagem de ser ineficientes pra powerusers, nem sempre serem bem "explicativos", necessitam de ter varios icones no ecram logo ocupam mais espaço, e dificil de conceber icones reconheciveis.
+
+24 -> é necessario a organização das "perguntas", os valores por omissão, assinalar zonas obrigatorias , etc...
+ 
+25 -> O estilo baseado em menus tem a vantagem de ser auto-explicativos, configuraveis, de ter opções reconheciveis, e de aprendizagem rapida. Tem a desvantagem de ser lento pra principiantes, de a escolha do nome ser critica, de utilizar espaço no ecram e de o numero limitado de opções.
