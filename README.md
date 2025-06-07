@@ -32,26 +32,6 @@ The student will develop the following essential skills:
 7. Usability and Accessibility
 8. Evaluation
 
-
-## Assessment Methodology
-
-* **Main Method (Default):**
-
-  * **Written Exam**: 8 points
-  * **Practical Work**: 12 points
-  * Final Grade = Exam + Project
-  * Minimum of 40% required in both exam and practical components.
-
-* **Alternative Method (for students opting out or failing practicals):**
-
-  * **Written Exam only**: 20 points
-
-* **Improvement Conditions:**
-
-  * Projects cannot be improved after submission.
-  * Exams can be retaken for grade improvement.
-  * Final grade is the highest of all valid attempts.
-
 -----
 
  For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
