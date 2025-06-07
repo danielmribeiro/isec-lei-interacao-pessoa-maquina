@@ -5,10 +5,10 @@ Here is the **English translation** of the course information for the subject **
 
 | Projects |
 | ----- |
-| [Evaluation of Interfaces](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-01) |
-| [HHS Guidelines](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-02) |
-| [Heuristic Evaluation](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-03) |
-| [Interaction Design](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-04) |
+| [Evaluation of Interfaces (Avaliação da Interface de dispositivos)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-01) |
+| [HHS Guidelines (Estudo de Guidelines HHS)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-02) |
+| [Heuristic Evaluation (Avaliação Heurística de um Website)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-03) |
+| [Interaction Design (Desenho da Interação: Coisas especiais para populações especiais)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-04) |
 
 ## Course Objectives
 
