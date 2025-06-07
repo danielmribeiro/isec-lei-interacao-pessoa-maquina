@@ -19,19 +19,6 @@ The student will develop the following essential skills:
 * Understand and manage trade-offs between constraints in interface design.
 * Frame interface design within software engineering projects.
 
-## Program Content
-
-### Theoretical Component
-
-1. Introductory Concepts
-2. Human Factors
-3. The Psychology of Things
-4. Interaction Models
-5. Interaction Design
-6. Project
-7. Usability and Accessibility
-8. Evaluation
-
 -----
 
  For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
