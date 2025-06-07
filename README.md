@@ -1,8 +1,6 @@
 # Interação Pessoa Máquina (Human-Computer Interaction)
 Repository for the "Interação Pessoa Máquina" course at Instituto Superior de Engenharia de Coimbra (ISEC), part of the "Licenciatura em Engenharia Informática" degree program. This repository contains exercises, resources, and materials related to the study of Human-Computer Interaction.
 
-Here is the **English translation** of the course information for the subject **"Human-Computer Interaction"** from the “Licenciatura em Engenharia Informática” (Bachelor’s in Computer Engineering) at ISEC:
-
 | Projects |
 | ----- |
 | [Evaluation of Interfaces (Avaliação da Interface de dispositivos)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina/blob/master/projects/project-01) |
